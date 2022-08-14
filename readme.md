@@ -1,3 +1,4 @@
+
 # Welcome to the Anythink Market repo
 
 To start the app use Docker. It will start both frontend and backend, including all the relevant dependencies, and the db.
@@ -10,4 +11,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_ 
+SO in order to setup local enivornment in your machine, you will require to download docker desktop application. To dowload, goto docker hub and read the instructions and specification required to be met in order to install and run the docker desktop app.
